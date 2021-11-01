@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumaar&label=Profile%20views&color=0e75b6&style=flat" alt="amankumaar" /> </p>
 
-![Banner](https://github.com/amankumaar/amankumaar/main/Banner.png)
+![Banner](https://github.com/amankumaar/amankumaar/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
