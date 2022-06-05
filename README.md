@@ -10,17 +10,14 @@
 
 - 👯 I’m looking to collaborate on Machine Learning & Open Source
 
-- 👨‍💻 All of my projects are available at [https://github.com/amankumaar](https://github.com/amankumaar)
-
 - 💻 Currently Mastering my C++
-
-- 📫 How to reach me **iamankumaaar@gmail.com**
 
 ### Connect with me:
 
 [<img align="left" alt="iamankumaar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/iamankumaaar)
 [<img align="left" alt="amankumaar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amankumaaar/)
 [<img align="left" alt="amanraaj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/iamanraaj/?hl=en)
+[<img align="left" alt="iamankumaaar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:iamankumaaar@gmail.com)
 
 <br />
 
