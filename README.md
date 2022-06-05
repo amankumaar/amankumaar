@@ -6,9 +6,7 @@
 
 ## About Me :wave:
 
-- 🔭 I’m currently working on Wireless Sensor Networks
-
-- 🌱 Currently learning **Machine Learning**
+- 🌱 I'm Currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on Machine Learning & Open Source
 
