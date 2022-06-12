@@ -1,27 +1,24 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumaar&label=Profile%20views&color=0e75b6&style=flat" alt="amankumaar" /> </p>
+<h1 align="center">Hi, I'm Aman 👋 👨‍💻</h1>
+
+[![Twitter Badge](https://img.shields.io/badge/-@iamankumaaar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamankumaaar)](https://twitter.com/iamankumaaar)
+[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamankumaaar/)](https://www.linkedin.com/in/iamankumaaar/)
+[![Gmail Badge](https://img.shields.io/badge/-iamankumaaar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamankumaaar@gmail.com)](mailto:iamankumaaar@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/amankumaar.svg?style=social&label=Follow)](https://github.com/amankumaar?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amankumaar.amankumaar)](https://github.com/amankumaar)
 
 ![Banner](https://github.com/amankumaar/amankumaar/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+## 👨🏻‍💻 &nbsp;About me:
 
-## About Me :wave:
+<img alt="Night Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right"/>
 
-- 🌱 I'm Currently learning **Machine Learning**
+🎓 &nbsp;I'm currenly a Computer Science Undegraduate Student at the Delhi Technological University, New Delhi.\
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.\
+🌱 &nbsp;Currently Mastering my Data Structures & Algorithms.\
+✉️ &nbsp;You can shoot me an email at iamankumaaar@gmail.com!. I'll try to respond as soon as I can.
 
-- 👯 I’m looking to collaborate on Machine Learning & Open Source
 
-- 💻 Currently Mastering my C++
-
-### Connect with me:
-
-[<img align="left" alt="iamankumaar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/iamankumaaar)
-[<img align="left" alt="amankumaar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amankumaaar/)
-[<img align="left" alt="amanraaj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/iamanraaj/?hl=en)
-[<img align="left" alt="iamankumaaar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:iamankumaaar@gmail.com)
-
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech I work on:</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -39,5 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumaar&show_icons=true&locale=en" alt="amankumaar" /></p>
 </details>
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
