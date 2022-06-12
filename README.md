@@ -3,8 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@iamankumaaar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamankumaaar)](https://twitter.com/iamankumaaar)
 [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamankumaaar/)](https://www.linkedin.com/in/iamankumaaar/)
 [![Gmail Badge](https://img.shields.io/badge/-iamankumaaar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamankumaaar@gmail.com)](mailto:iamankumaaar@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/amankumaar.svg?style=social&label=Follow)](https://github.com/amankumaar?tab=followers)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amankumaar.amankumaar)](https://github.com/amankumaar)
+![GitHub followers](https://img.shields.io/github/followers/amankumaar?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=amankumaar&color=brightgreen">  
 
 ![Banner](https://github.com/amankumaar/amankumaar/blob/main/Banner.png)
 
